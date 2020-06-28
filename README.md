@@ -3,8 +3,8 @@
 <h2>Link do curso(course link)</h2>
 https://www.udemy.com/course/curso-react-native/
 
-<h2>Tecnologias utilizadas(technologies used)</h2>
-<a href="https://www.npmjs.com/package/bcrypt-nodejs">bcrypt-nodejs(0.0.3)</a>
+<h2>Tecnologias utilizadas(technologies used)</h2><br />
+<a href="https://www.npmjs.com/package/bcrypt-nodejs">bcrypt-nodejs(0.0.3)</a><br />
 <a href="https://www.npmjs.com/package/body-parser">body-parser(1.19.0)</a>
 <a href="https://www.npmjs.com/package/consign">consign(0.1.6)</a>
 <a href="https://www.npmjs.com/package/cors">cors(2.8.5)</a>
