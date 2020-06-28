@@ -4,7 +4,7 @@
 https://www.udemy.com/course/curso-react-native/
 
 <h2>Tecnologias utilizadas(technologies used)</h2>
-
+<ol>
 <a href="https://www.npmjs.com/package/bcrypt-nodejs">bcrypt-nodejs(0.0.3)</a>
 <a href="https://www.npmjs.com/package/body-parser">body-parser(1.19.0)</a>
 <a href="https://www.npmjs.com/package/consign">consign(0.1.6)</a>
@@ -17,7 +17,7 @@ https://www.udemy.com/course/curso-react-native/
 <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt(4.0.0)</a>
 <a href="https://www.npmjs.com/package/pg">pg(7.17.0)</a>
 <a href="https://www.npmjs.com/package/nodemon">nodemon(1.18.4)</a>
-
+</ol>
 <h2>Utilização</h2>
 
 <strong>npm install</strong> para instalar os pacotes listados acima.
