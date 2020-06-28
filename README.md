@@ -19,5 +19,5 @@ https://www.udemy.com/course/curso-react-native/
 
 <h2>Utilização</h2>
 
-<strong>npm install</strong> para instalar os pacotes listados acima.
+<strong>npm install</strong> para instalar os pacotes listados acima.<br />
 <strong>npm start</strong> para inicializar o servidor.
