@@ -16,6 +16,8 @@ https://www.udemy.com/course/curso-react-native/
 <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt(4.0.0)</a><br />
 <a href="https://www.npmjs.com/package/pg">pg(7.17.0)</a><br />
 <a href="https://www.npmjs.com/package/nodemon">nodemon(1.18.4)</a><br />
+<h3>Banco de dados</h3><br />
+<a href="https://www.postgresql.org/">POSTGRESQL</a>
 
 <h2>Utilização</h2>
 
